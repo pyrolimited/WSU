@@ -1,0 +1,47 @@
+p {
+font-family: Spectral;
+color: blue;
+text-align: center;
+}
+h1 {
+font-family: Papyrus;
+color: blue;
+font-size: 50px;
+text-align: center;
+}
+h2 {
+color: indigo;
+text-align: center;
+}
+.title {
+color: blue;
+}
+h3 {
+ 
+}
+.image {
+
+background-image:url(https://media1.giphy.com/media/3oxQNjjeEoAMWbN78c/source.gif), url(https://mwb.com/manage/wp-content/uploads/crystalball.jpg) ; 
+background-position:right, center;
+background-repeat: no-repeat, no-repeat;
+height: 500px;
+width: 1180px;
+}
+.wizard {
+background: url(https://media1.giphy.com/media/3oxQNjjeEoAMWbN78c/source.gif) no-repeat right;
+height:500px;
+width 1280px;
+}
+body {
+ background: linear-gradient(180deg, #2e0669, #000000 15%);
+}
+.answer {
+position: absolute;
+top: 575px;
+left: 550px;
+font-size: 16px;
+color: white;
+}
+.QA {
+text-align: center;
+}
